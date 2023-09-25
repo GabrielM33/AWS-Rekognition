@@ -1,0 +1,363 @@
+[
+  {
+    "Filename": "photos/pic20.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic1.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic17.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic10.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic7.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic11.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic6.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic5.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic12.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic9.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic8.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic4.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic13.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic18.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic14.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic3.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic15.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic2.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Filename": "photos/pic19.jpeg",
+    "Labels": [
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 95.63501739501953,
+        "Parents": []
+      },
+      {
+        "Name": "Label-ReplaceThis",
+        "Confidence": 89.634765625,
+        "Parents": [
+          {
+            "Name": "Parent-ReplaceThis"
+          }
+        ]
+      }
+    ]
+  }
+]
